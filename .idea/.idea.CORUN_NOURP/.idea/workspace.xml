@@ -20,7 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="514476e2-3b6a-41b0-9d4a-83ba929764eb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CORUN_NOURP/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CORUN_NOURP/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CORUN_NOURP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CORUN_NOURP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/requiredcomponents/scripts/Player/Input/A_InputHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/requiredcomponents/scripts/Player/Input/A_InputHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/requiredcomponents/scripts/Player/PlayerDriver.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/requiredcomponents/scripts/Player/PlayerDriver.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/requiredcomponents/scripts/Player/PlayerMotor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/requiredcomponents/scripts/Player/PlayerMotor.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +36,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/requiredcomponents/scripts/Player/PlayerPower.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/requiredcomponents/scripts/Player/Input/InputManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/requiredcomponents/scripts/Player/PlayerMotor.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -38,11 +44,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/requiredcomponents/scripts/Player/Input/Input_handler.cs" />
-        <option value="$PROJECT_DIR$/Assets/requiredcomponents/scripts/Player/Input/A_InputHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/requiredcomponents/scripts/Player/Input/AInputManager.cs" />
         <option value="$PROJECT_DIR$/Assets/requiredcomponents/scripts/Player/Input/InputManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/requiredcomponents/scripts/Player/PlayerMotor.cs" />
+        <option value="$PROJECT_DIR$/Assets/requiredcomponents/scripts/Player/scriptable/S_PlayerModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/requiredcomponents/scripts/Player/Input/A_InputHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/requiredcomponents/scripts/scriptable/S_PlayerModel.cs" />
         <option value="$PROJECT_DIR$/Assets/requiredcomponents/scripts/Player/PlayerDriver.cs" />
+        <option value="$PROJECT_DIR$/Assets/requiredcomponents/scripts/Player/PlayerPower.cs" />
+        <option value="$PROJECT_DIR$/Assets/requiredcomponents/scripts/Player/PlayerMotor.cs" />
       </list>
     </option>
   </component>
@@ -88,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600367096328</updated>
       <workItem from="1600367126757" duration="597000" />
-      <workItem from="1600423461030" duration="11763000" />
+      <workItem from="1600423461030" duration="15200000" />
     </task>
     <servers />
   </component>
