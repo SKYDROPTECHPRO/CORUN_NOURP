@@ -9,12 +9,13 @@ public abstract class A_InputHandler : MonoBehaviour
     public event Action Applysanitizer;
     public event Action Applymedication;
     public event Action Applyenergydrink;
-    
-    protected virtual void virtualstart() {}
+
+    protected virtual void virtualawake() {}
+
     // Start is called before the first frame update
-    void Start()
+    void Awake()
     {
-        virtualstart();
+        virtualawake();
         
     }
 
