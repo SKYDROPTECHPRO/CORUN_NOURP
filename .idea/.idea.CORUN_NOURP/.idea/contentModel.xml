@@ -15,6 +15,10 @@
               </e>
               <e p="PlayerDriver.cs" t="Include" />
               <e p="PlayerMotor.cs" t="Include" />
+              <e p="PlayerPower.cs" t="Include" />
+            </e>
+            <e p="scriptable" t="Include">
+              <e p="S_PlayerModel.cs" t="Include" />
             </e>
           </e>
         </e>
