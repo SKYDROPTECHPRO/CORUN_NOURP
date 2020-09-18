@@ -9,7 +9,12 @@
         <e p="requiredcomponents" t="Include">
           <e p="scripts" t="Include">
             <e p="Player" t="Include">
+              <e p="Input" t="Include">
+                <e p="A_InputHandler.cs" t="Include" />
+                <e p="InputManager.cs" t="Include" />
+              </e>
               <e p="PlayerDriver.cs" t="Include" />
+              <e p="PlayerMotor.cs" t="Include" />
             </e>
           </e>
         </e>
